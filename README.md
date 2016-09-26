@@ -31,7 +31,8 @@ O programa deverá criar e manter um arquivo para implementar uma agenda com os 
 
 O programa deverá satisfazer todos os requerimentos descritos a seguir e utilizar todas as estruturas de dados que são solicitadas para desenvolver as tarefas.
 
-Funcionalidades
+Funcionalidades:
+
 1.	Criar um índice utilizada uma árvore B campo alfabético e um índice ordenado pelo telefone celular;
 
 2.	Buscar um contato na agenda (nome e telefone) e mostrar suas informações indicando quando este não exista;
