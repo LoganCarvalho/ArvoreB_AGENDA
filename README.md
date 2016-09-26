@@ -6,13 +6,21 @@ Fazer um programa completo em C, para criar e manter uma agenda de contatos comp
 O programa deverá criar e manter um arquivo para implementar uma agenda com os seguintes campos:
 
 •	Nome completo;
+
 •	Data de nascimento;
+
 •	CPF;
+
 •	Endereço;
+
 •	Profissão;
+
 •	E-mail
+
 •	Telefone Celular;
-•	Telefone comercial.
+
+•	Telefone comercial;
+
 •	Telefone Residencial;
 
 
