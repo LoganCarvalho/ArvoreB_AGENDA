@@ -2,7 +2,9 @@
 Implementação de uma agenda de contatos na linguagem C utilizando árvore B.
 
 Fazer um programa completo em C, para criar e manter uma agenda de contatos completa.
- Descrição do projeto
+
+Descrição do projeto:
+ 
 O programa deverá criar e manter um arquivo para implementar uma agenda com os seguintes campos:
 
 •	Nome completo;
